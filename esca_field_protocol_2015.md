@@ -1,12 +1,12 @@
 # CAP LTER Survey200 Field Protocol
 Version 2015
 
-These methods were adapted from the CAP LTER Ecological Survey of Central Arizona protocol. This protocol was based initially on the UFORE FOREST SURVEY devised by Dave Nowak (BES), and has been updated with input from CAP LTER PIs and field experience. The protocol adapted was specific to the survey conducted in 2015. Major changes from earlier protocols include the addition of surface soil sampling (initiated in 2010)......
+These methods were adapted from the CAP LTER Ecological Survey of Central Arizona protocol. This protocol was based initially on the UFORE FOREST SURVEY devised by Dave Nowak (BES), and has been updated with input from CAP LTER PIs and field experience. The protocol adapted was specific to the survey conducted in 2015. The 2015 survey, for the first time, employed the use of digital tablets for data collection in the field, and the steps in this protocol that reference ODK are noting the appropriate form in the tablet to employ for a particular type of data. These methods are otherwise identical to protocols of previous surveys.
 
 
 # Arriving at the site: first steps
 
-Upon arriving at a site, use the Trimble GPS to locate the plot center(locate the nail if present (desert sites only)). Create a new folder inthe GPS for the site, and record the location of the plot center. If present, always use the center nail as plot center and record thislocation as plot center in the GPS. Use the Trimble GPS to identify the plot corners and mid-points - mark these with flags or cones. At plots with relatively little topography, it may be easier to use pre-measured 30m ropes laid along the N-S and E-W axes of the plot to delineate the plot boundary. Divide tasks among crew members.
+Upon arriving at a site, use the Trimble GPS to locate the plot center (locate the nail if present (desert sites only)). Create a new folder inthe GPS for the site, and record the location of the plot center. If present, always use the center nail as plot center and record thislocation as plot center in the GPS. Use the Trimble GPS to identify the plot corners and mid-points - mark these with flags or cones. At plots with relatively little topography, it may be easier to use pre-measured 30m ropes laid along the N-S and E-W axes of the plot to delineate the plot boundary. Divide tasks among crew members.
 
 **General plot information**
 
@@ -28,13 +28,13 @@ ODK form: s200\_GPI
 * Evaluation of surrounding neighborhood: excluding outlying desert areas, note general characteristics of the surrounding neighborhood.
 * Note whether the plot center nail was located and whether one was left
 * Note landscape practices (skip for desert plots)
-  + Does the landscape have a natural or manicured appearance?
-  + Is the landscape maintained professionally?
-  + Are plants in the landscape healthy and vigorous?
-  + Are there any symptoms or signs of abiotic or biotic injury?
-  + Watering regimes: drip or trickle, overhead spray, flood, hand watering, or not irrigated
-  + Estimate % of pervious area irrigated.
-  + Veg types present: soil / trees / shrubs / succulents / herbaceous groundcover / other groundcover
+    + Does the landscape have a natural or manicured appearance?
+    + Is the landscape maintained professionally?
+    + Are plants in the landscape healthy and vigorous?
+    + Are there any symptoms or signs of abiotic or biotic injury?
+    + Watering regimes: drip or trickle, overhead spray, flood, hand watering, or not irrigated
+    + Estimate % of pervious area irrigated.
+    + Veg types present: soil / trees / shrubs / succulents / herbaceous groundcover / other groundcover
 
 # Photographs
 
@@ -173,19 +173,19 @@ ODK form: s200\_GPI
 **Soil cores – detailed instruction**
 
 * 2" soil core
-  + carefully take an intact core \~1 m east of plot center IF there is no danger of hitting irrigation/power lines or the nearest location to plot center with representative ground cover 
-  + if the core is incomplete, remove the soil and collect another sample
-  + Avoid pushing/compacting the sample when removing from corer
-  + Place a red cap on top of the core sleeve and a blue cap on the bottom of the core sleeve
-  + Label core sleeve with the plot ID and date
+    + carefully take an intact core \~1 m east of plot center IF there is no danger of hitting irrigation/power lines or the nearest location to plot center with representative ground cover 
+    + if the core is incomplete, remove the soil and collect another sample
+    + Avoid pushing/compacting the sample when removing from corer
+    + Place a red cap on top of the core sleeve and a blue cap on the bottom of the core sleeve
+    + Label core sleeve with the plot ID and date
 
 * 1" soil cores
-  + collect 4 samples, \~10 m North, South, East and West of plot center and 1 m clockwise from transect, or the nearest feasible location to these positions
-  + Do not sample where there may be irrigation/power lines
-  + if the core is incomplete, remove the soil and collect another
- sample
-  + Avoid pushing/compacting the sample when removing from corer
-  + Place a red cap on top of the core sleeve and a blue cap on the bottom of the core sleeve
+    + collect 4 samples, \~10 m North, South, East and West of plot center and 1 m clockwise from transect, or the nearest feasible location to these positions
+    + Do not sample where there may be irrigation/power lines
+    + if the core is incomplete, remove the soil and collect another
+   sample
+    + Avoid pushing/compacting the sample when removing from corer
+    + Place a red cap on top of the core sleeve and a blue cap on the bottom of the core sleeve
 
 **Surface soil – overview**
 
@@ -266,13 +266,13 @@ ODK form: s200\_GPI
 * Record heights of buildings if present (add 'Plot structures' group): record the slope (in degrees) to the highest point and bottom of the structure from a known distance.
 * Note surrounding transportation infrastructure that best reflects conditions at the parcel
 * Note landscape practices
-  + Does the landscape have a natural or manicured appearance?
-  + Is the landscape maintained professionally?
-  + Are plants in the landscape healthy and vigorous?
-  + Are there any symptoms or signs of abiotic or biotic injury?
-  + Watering regimes: drip or trickle, overhead spray, flood, hand watering, or not irrigated
-  + Estimate % of pervious area irrigated.
-  + Veg types present: soil / trees / shrubs / succulents / herbaceous groundcover / other groundcover
+    + Does the landscape have a natural or manicured appearance?
+    + Is the landscape maintained professionally?
+    + Are plants in the landscape healthy and vigorous?
+    + Are there any symptoms or signs of abiotic or biotic injury?
+    + Watering regimes: drip or trickle, overhead spray, flood, hand watering, or not irrigated
+    + Estimate % of pervious area irrigated.
+    + Veg types present: soil / trees / shrubs / succulents / herbaceous groundcover / other groundcover
 
 * Synoptic Plot Photos: take synoptic photos of the parcel to capture the essence of the plot; describe each photo in the description box.
 * Note the type of residence
@@ -281,15 +281,15 @@ ODK form: s200\_GPI
 **Yard characteristics & features**
 
 * For front and rear yards separately, note the qualities as prompted by the form
-  + yard upkeep
-  + yard orderliness
-  + yard features
-  + watering regimes
-  + yard landscape type
-  + amount of grass and characteristics (if present)
-  + weeds
-  + pruning
-  + detailed assessment of grass (if present)
+    + yard upkeep
+    + yard orderliness
+    + yard features
+    + watering regimes
+    + yard landscape type
+    + amount of grass and characteristics (if present)
+    + weeds
+    + pruning
+    + detailed assessment of grass (if present)
   
 Add another 'front or back yard' group as access allows
 
