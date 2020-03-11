@@ -1,2 +1,3 @@
-# cap-lter-protocols
-repository of CAP LTER field and laboratory protocols
+# protocol-esca
+
+CAP LTER protocol: ESCA
